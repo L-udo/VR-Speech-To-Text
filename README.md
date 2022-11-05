@@ -8,8 +8,8 @@ This is a placeholder for a Future planned project
 
 
 # Planned specs
--CVr & VRChat support
--Mobile support (using a Phone + Standalone headset, OR the possibility of running all on one device)
+- CVr & VRChat support
+- Mobile support (using a Phone + Standalone headset, OR the possibility of running all on one device)
 
 
 ## intended use/Target users
