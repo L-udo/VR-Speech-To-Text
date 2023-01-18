@@ -6,6 +6,11 @@ A VR focused speech to text application planned to be able to run on a variety o
 
 This is a placeholder for a Future planned project
 
+# Candidate models
+
+- Whisper
+- Deepspeesh
+
 
 # Planned specs
 - CVr & VRChat support
