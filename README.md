@@ -5,6 +5,7 @@ A VR focused speech to text application planned to be able to run on a variety o
 
 
 This is a placeholder for a Future planned project
+and is currently just for me to dump some files here until I actually being to develop the idea
 
 # Candidate models
 
